@@ -3,9 +3,9 @@
     height: auto;
     margin: auto;
 }
-.container.header{
+.container .header{
     width: 1170px;
-    height: 200px;
+    height: 100px;
     margin: auto;
     background-color: #180a0a;
 }
