@@ -1,3 +1,50 @@
+<<<<<<< HEAD
+.container{
+    width: 1170px;
+    height: auto;
+    margin: auto;
+}
+.container .header{
+    width: 1170px;
+    height: 100px;
+    margin: auto;
+    background-color: #180a0a;
+}
+.container .contentrow .content1{
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    background-color:rgb(12, 1, 1);
+    float: left;
+}
+.container .contentrow .content2{
+    width: 200px;
+    height: 200px;
+    margin-left: auto; margin-right: auto; margin-top: auto; margin-bottom: auto;
+    background-color: #0c6be8;
+    float: left;
+}
+.container .contentrow .content3{
+    width: 500px;
+    height: 200px;
+    margin: auto;
+    background-color:#f20df2;
+    float: left;
+}
+.container .contentrow .content4{
+    width: 100px;
+    height: 200px;
+    margin: auto;
+    background-color:#2cf20d;
+    float: left;
+}
+.container .contentrow .content5{
+    width: 100px;
+    height: 200px;
+    margin: auto;
+    background-color:#f23f0d;
+    float: left;
+=======
 * {
     box-sizing: border-box;
     margin: 0;
@@ -297,10 +344,13 @@ i:hover{
  .headerNav{
     margin: 30px 0;
     text-align: center;
+>>>>>>> 8241efebf8579b73ef0ee36102f1ef35907cb3b7
 }
 
 
 
+<<<<<<< HEAD
+=======
 
 
 
@@ -338,3 +388,4 @@ i:hover{
 .body{
   background-color: hwb(320 62% 37%);
 }
+>>>>>>> 8241efebf8579b73ef0ee36102f1ef35907cb3b7
