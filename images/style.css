@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 .container{
     width: 1170px;
     height: auto;
@@ -44,7 +43,6 @@
     margin: auto;
     background-color:#f23f0d;
     float: left;
-=======
 * {
     box-sizing: border-box;
     margin: 0;
@@ -344,13 +342,7 @@ i:hover{
  .headerNav{
     margin: 30px 0;
     text-align: center;
->>>>>>> 8241efebf8579b73ef0ee36102f1ef35907cb3b7
 }
-
-
-
-<<<<<<< HEAD
-=======
 
 
 
@@ -388,4 +380,4 @@ i:hover{
 .body{
   background-color: hwb(320 62% 37%);
 }
->>>>>>> 8241efebf8579b73ef0ee36102f1ef35907cb3b7
+}
