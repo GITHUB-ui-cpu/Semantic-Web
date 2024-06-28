@@ -43,6 +43,7 @@
   margin: auto;
   background-color:#f23f0d;
   float: left;
+}
 * {
   box-sizing: border-box;
   margin: 0;
@@ -379,5 +380,4 @@ font-size: xx-large;
 }
 .body{
 background-color: hwb(320 62% 37%);
-}
 }
