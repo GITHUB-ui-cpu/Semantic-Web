@@ -1,4 +1,4 @@
-.container{
+/* .container{
   width: 1170px;
   height: auto;
   margin: auto;
@@ -249,9 +249,9 @@ i:hover{
 .artist {
   display: -webkit-box;
   -webkit-box-orient: vertical;
-  -webkit-line-clamp: 1;
-  overflow: hidden;
-}
+  /* -webkit-line-clamp: 1; */
+  /* overflow: hidden; */
+/* }
 .title:hover,
 .artist:hover {
   text-decoration: underline;
@@ -350,6 +350,7 @@ i:hover{
 
 
 
+<<<<<<< Updated upstream
 
 
 
@@ -381,3 +382,6 @@ font-size: xx-large;
 .body{
 background-color: hwb(320 62% 37%);
 }
+=======
+ */ */
+>>>>>>> Stashed changes
